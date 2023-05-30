@@ -1,0 +1,10 @@
+/** @format */
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: justify;
+  margin: 0 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
