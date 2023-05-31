@@ -1,6 +1,6 @@
 /** @format */
 body {
-  background-color: #d6c9b6;
+  background-color: #cda86f;
 }
 h1 {
   text-align: center;
@@ -24,5 +24,6 @@ p {
   text-align: center;
 }
 .akara-photo {
+  display: block;
   text-align: center;
 }
